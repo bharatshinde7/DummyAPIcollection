@@ -1,4 +1,4 @@
-# DummyAPIcollection
+# DummyAPICollection
 
 ## Intorduction
 This is dummy collection for REST API using Postman tool.
